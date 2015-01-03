@@ -4,4 +4,3 @@ Base for Thunderflash websites. Fork this and your ready to go build your site! 
 Error! (ThunderFlash-InvalidWebsite)
 Thunderflash tried looking at the website but no .thunder file was found!
 Please report this to the website creator.
-----------------------------------------------
