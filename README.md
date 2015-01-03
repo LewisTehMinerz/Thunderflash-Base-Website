@@ -6,4 +6,13 @@ Error! (ThunderFlash-InvalidWebsite)
 
 Thunderflash tried looking at the website but no .thunder file was found!
 
-Please report this to the website creator.)
+Please report this to the website creator.
+
+
+The .thunder file is for executing your main page. You may write:
+
+--[[INCLUDE main.thunder]]--
+
+--[[main.thunder]]--
+
+The code above is what is included in this example.)
