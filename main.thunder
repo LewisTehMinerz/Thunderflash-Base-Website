@@ -1,2 +1,3 @@
---[[INCLUDES /ExamplePage/EXAMPLE.thunder]]--
+--[[INCLUDE /ExamplePage/EXAMPLE.thunder]]--
 print("BLAH THIS EXAMPLE\nBLAH")
+--[[/ExamplePage/EXAMPLE.thunder]]--
