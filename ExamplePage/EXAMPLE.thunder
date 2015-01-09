@@ -1,1 +1,1 @@
-print("This will be displayed when Thunderflash encounters this line: "--[[EXAMPLE.thunder]]--"\nThis is the only way to call another file once you write\n"--[[INCLUDES file.thunder]]--".
+print("This will be displayed when Thunderflash encounters this line: \"--[[EXAMPLE.thunder]]--\"\nThis is the only way to call another file once you write\n\"--[[INCLUDES file.thunder]]--\".")
